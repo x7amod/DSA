@@ -1,0 +1,21 @@
+# Java
+*.class
+*.log
+
+# Maven / build output
+target/
+build/
+dist/
+out/
+
+# NetBeans private files
+nbproject/private/
+
+# IDE settings
+.idea/
+.vscode/
+*.iml
+
+# Operating system files
+.DS_Store
+Thumbs.db
